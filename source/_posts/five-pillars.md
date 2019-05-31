@@ -1,7 +1,7 @@
 ---
 title: AWS Well-Architected Framework – Five Pillars
 categories:
- - overview
+ - Overview
 ---
 
 ![](/images/AWS-Well-Architected-Framework-Five-Pillars.jpg)

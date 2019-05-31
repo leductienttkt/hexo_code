@@ -1,7 +1,7 @@
 ---
 title: AWS Pricing
 categories:
- - overview
+ - Overview
 ---
 
 * Có ba trình điều khiển cơ bản về chi phí với AWS:

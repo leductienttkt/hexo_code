@@ -1,7 +1,7 @@
 ---
 title: AWS Well-Architected Framework – Design Principles
 categories:
- - overview
+ - Overview
 ---
 ### 1. Scalability
 

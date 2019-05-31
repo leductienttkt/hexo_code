@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: AWS Cheat Sheets
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Mr.Nara
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://leductienttkt.github.io
 root: /
-permalink: :category/:title/
+permalink: /:category/:title/
 permalink_defaults:
 
 # Directory
@@ -50,11 +50,11 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 3
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: home
 category_map:
 tag_map:
 
@@ -62,12 +62,12 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD-MM-YYYY
 time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 5
 pagination_dir: page
 
 # Extensions
@@ -78,4 +78,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:leductienttkt/leductienttkt.github.io.git

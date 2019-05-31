@@ -1,7 +1,7 @@
 ---
 title: AWS Global Infrastructure
 categories:
- - overview
+ - Overview
 ---
 
 Đám mây AWS trải rộng trên **66 Availability Zones** tại **21 Geographic Regions** trên khắp thế giới, với các kế hoạch đã thông báo cho thêm **12 Availability Zones** và thêm **4 Geographic Regions** khác tại Bahrain, Cape Town, Jakarta và Milan.
