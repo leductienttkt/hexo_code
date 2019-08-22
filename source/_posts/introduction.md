@@ -18,7 +18,7 @@ Cuối cùng, nên trả lời càng nhiều **practice test questions** càng t
 
 * [AWS OVERVIEW](/categories/Overview/)
 * [AWS COMPUTE SERVICES](/categories/Compute-Services/)
-* AWS STORAGE SERVICES
+* [AWS STORAGE SERVICES](/categories/Storage-Services/)
 * AWS DATABASE SERVICES
 * AWS NETWORKING & CONTENT DELIVERY
 * AWS MIGRATION SERVICES
